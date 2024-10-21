@@ -15,3 +15,8 @@ Eine Rechtschreibprüfung bei Texten der Software wurde ebenfalls nicht vollstä
 Der Entwickler würde sich über Rückmeldungen zum Spielerlebnis und eventuellen Problemen freuen, damit das Spiel verbessert werden kann.
 
 Zu einem späteren Zeitpunkt könnten noch Updates folgen, die das Spiel erweitern.
+
+Bei der Ausführung der .exe-Datei kann eine Windows-Warnung erscheinung. 
+Das liegt daran, dass die Software nicht über eine (kostenplfichtige) digitale Signatur verfügt. 
+Sie kann aber mit einem Klick auf "Trotzdem ausführen" gefahrlos ausgeführt werden.
+
