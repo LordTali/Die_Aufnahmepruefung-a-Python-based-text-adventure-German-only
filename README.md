@@ -16,7 +16,7 @@ Der Entwickler würde sich über Rückmeldungen zum Spielerlebnis und eventuelle
 
 Zu einem späteren Zeitpunkt könnten noch Updates folgen, die das Spiel erweitern.
 
-Bei der Ausführung der .exe-Datei kann eine Windows-Warnung erscheinung. 
-Das liegt daran, dass die Software nicht über eine (kostenplfichtige) digitale Signatur verfügt. 
+Bei der Ausführung der .exe-Datei kann eine Windows-Warnung erscheinen. 
+Das liegt daran, dass die Software nicht über eine (kostenpflichtige) digitale Signatur verfügt. 
 Sie kann aber mit einem Klick auf "Trotzdem ausführen" gefahrlos ausgeführt werden.
 
