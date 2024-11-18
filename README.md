@@ -5,7 +5,7 @@ Ziel des Spiels ist es, den Spielern eine interaktive Geschichte zu bieten, die 
 
 WICHTIG:
 
-Die Software verwendet das Modul Colorama. Je nach System wird dieses notwendig sein, um das Programm zu starten.
+Die Software verwendet das Modul Colorama. Je nach System wird dieses notwendig sein, um das Programm über Python zu starten.
 
 ACHTUNG:
 
